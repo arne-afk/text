@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "bf1299c6e5285e18",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e278b0136a9905d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "veriler.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9912cd2172242dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0aafe621848af2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b018c80d0929d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5b1fa7ab0de2ed8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "right": {
+    "id": "54e01207450ca03e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe665a5bccec1099",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7486c3bc97df3f4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "veriler.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "veriler.md",
+    "Untitled.md"
+  ]
+}
